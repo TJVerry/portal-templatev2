@@ -1,0 +1,509 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "612ed430-eaf4-4bc2-8e4f-c9b8da2c16b2",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Users"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "593df82f-126c-44b7-baf2-6b57f35ec4e0",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@MEsIT": "jverry@faithfunnels.ai",
+              "@K4cVt": "Jake",
+              "@_1IX4": "Verry",
+              "@0dknW": "jverry@faithfunnels.ai",
+              "@wY8Wx": "(757) 797-9437",
+              "@R5_MX": "Non-profit Marketing Consultant",
+              "@yann6": "https://files.taskade.com/space-files/6fa10df9-ff9e-424a-b405-64b1ee03d329/original/Upwork%20BG.png"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "ee675f58-902d-40d4-8b19-e67ee756559b": {
+            "id": "ee675f58-902d-40d4-8b19-e67ee756559b",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "V"
+          },
+          "d02b18ae-a493-4eca-90a1-35bbb3d2626c": {
+            "id": "d02b18ae-a493-4eca-90a1-35bbb3d2626c",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "k"
+          },
+          "1ce371d5-72a7-4cc8-ad3b-a528aad93483": {
+            "id": "1ce371d5-72a7-4cc8-ad3b-a528aad93483",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "s"
+          },
+          "44f463d7-4a7c-4cb2-ada8-b316817353c2": {
+            "id": "44f463d7-4a7c-4cb2-ada8-b316817353c2",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "w"
+          },
+          "ac5fbaf9-0b43-458b-9658-52718779958e": {
+            "id": "ac5fbaf9-0b43-458b-9658-52718779958e",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "y"
+          },
+          "4fc37059-254c-45a2-bdb1-cfe8ebf9accc": {
+            "id": "4fc37059-254c-45a2-bdb1-cfe8ebf9accc",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "z"
+          },
+          "259b3564-8fea-49d8-9360-4657c3f6849f": {
+            "id": "259b3564-8fea-49d8-9360-4657c3f6849f",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "c8be7647-b6fa-4462-b60b-abfd75fbc556": {
+            "id": "c8be7647-b6fa-4462-b60b-abfd75fbc556",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "V"
+          },
+          "cae502dc-895a-4faf-a2a9-b3b5b360ef4b": {
+            "id": "cae502dc-895a-4faf-a2a9-b3b5b360ef4b",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "k"
+          },
+          "3c7e6147-5270-4d61-ac0b-8eb7d41a12e9": {
+            "id": "3c7e6147-5270-4d61-ac0b-8eb7d41a12e9",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "s"
+          },
+          "3d332a47-5269-493c-91e4-f3430c105f22": {
+            "id": "3d332a47-5269-493c-91e4-f3430c105f22",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "w"
+          },
+          "c2d5fbcb-9154-4856-aaf0-ac2e26ab7ec7": {
+            "id": "c2d5fbcb-9154-4856-aaf0-ac2e26ab7ec7",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "y"
+          },
+          "98959edc-0201-4bc1-adfc-b3d577a37619": {
+            "id": "98959edc-0201-4bc1-adfc-b3d577a37619",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "z"
+          },
+          "366bec54-5c0d-4267-af01-63de9d61e11b": {
+            "id": "366bec54-5c0d-4267-af01-63de9d61e11b",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zV"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "cd86898b-47d6-4440-942b-b9a61da4dd7e": {
+            "id": "cd86898b-47d6-4440-942b-b9a61da4dd7e",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "z"
+          },
+          "b442e196-5c35-4c20-9f09-d03a41b6f72d": {
+            "id": "b442e196-5c35-4c20-9f09-d03a41b6f72d",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "zV"
+          },
+          "5ac6d5a9-b5c4-41e6-9737-8896ffbc5020": {
+            "id": "5ac6d5a9-b5c4-41e6-9737-8896ffbc5020",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "zk"
+          },
+          "8b875561-520b-4bc0-8e9a-5f66a05b4574": {
+            "id": "8b875561-520b-4bc0-8e9a-5f66a05b4574",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "zs"
+          },
+          "af0e1a76-c475-42e5-a2f4-e48f387b0961": {
+            "id": "af0e1a76-c475-42e5-a2f4-e48f387b0961",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "zw"
+          },
+          "46900c91-db48-47ed-9403-70bb272146f4": {
+            "id": "46900c91-db48-47ed-9403-70bb272146f4",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "zy"
+          },
+          "1557dc8f-a4e9-4111-9f80-4eced96b7abf": {
+            "id": "1557dc8f-a4e9-4111-9f80-4eced96b7abf",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "509e791d-fb1b-480e-9600-690b2770e6cb": {
+            "id": "509e791d-fb1b-480e-9600-690b2770e6cb",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "V"
+          },
+          "1ced471e-7138-4a79-ade0-121229b528b4": {
+            "id": "1ced471e-7138-4a79-ade0-121229b528b4",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "k"
+          },
+          "08fc4b10-d094-42b5-859a-3433c23f0bf9": {
+            "id": "08fc4b10-d094-42b5-859a-3433c23f0bf9",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "s"
+          },
+          "b59e8102-558a-4f29-9f55-7e063d68a88f": {
+            "id": "b59e8102-558a-4f29-9f55-7e063d68a88f",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "w"
+          },
+          "8440bde6-3937-44fe-a01a-8e0b9b540925": {
+            "id": "8440bde6-3937-44fe-a01a-8e0b9b540925",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "y"
+          },
+          "c4cea563-459a-4d97-a42b-dd65a10f412f": {
+            "id": "c4cea563-459a-4d97-a42b-dd65a10f412f",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "z"
+          },
+          "f6d6d979-1956-4580-acbf-3a6f04690acd": {
+            "id": "f6d6d979-1956-4580-acbf-3a6f04690acd",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "3e3c3b9d-938b-49cd-9069-02b1dff55727": {
+            "id": "3e3c3b9d-938b-49cd-9069-02b1dff55727",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "V"
+          },
+          "29260f1e-cffa-4ec0-9b5c-df37cc8ae9ce": {
+            "id": "29260f1e-cffa-4ec0-9b5c-df37cc8ae9ce",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "k"
+          },
+          "a46811f6-339a-4a8d-a040-423a5cf0a469": {
+            "id": "a46811f6-339a-4a8d-a040-423a5cf0a469",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "s"
+          },
+          "808e4d5c-158a-471a-90bc-8073546e6f6b": {
+            "id": "808e4d5c-158a-471a-90bc-8073546e6f6b",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "w"
+          },
+          "c282df08-3557-4fe2-8ec1-b5c0dead3913": {
+            "id": "c282df08-3557-4fe2-8ec1-b5c0dead3913",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "y"
+          },
+          "6db13695-96f7-4d7d-9c60-26e009348466": {
+            "id": "6db13695-96f7-4d7d-9c60-26e009348466",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "z"
+          },
+          "5a04bfa0-2e6a-4596-82a5-b76a5bacf72d": {
+            "id": "5a04bfa0-2e6a-4596-82a5-b76a5bacf72d",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zV"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 320
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "0091a430-588b-4155-8277-f36fca479d79": {
+            "id": "0091a430-588b-4155-8277-f36fca479d79",
+            "fieldPath": "/attributes/@MEsIT",
+            "rank": "z"
+          },
+          "fd0aeab1-9ada-475f-ad66-17f2a114ea23": {
+            "id": "fd0aeab1-9ada-475f-ad66-17f2a114ea23",
+            "fieldPath": "/attributes/@K4cVt",
+            "rank": "zV"
+          },
+          "4c29eefc-cabd-4c36-956d-82e3c99d760e": {
+            "id": "4c29eefc-cabd-4c36-956d-82e3c99d760e",
+            "fieldPath": "/attributes/@_1IX4",
+            "rank": "zk"
+          },
+          "b1c2f2bb-4019-480d-9847-47e9b014ab98": {
+            "id": "b1c2f2bb-4019-480d-9847-47e9b014ab98",
+            "fieldPath": "/attributes/@yann6",
+            "rank": "zs"
+          },
+          "42f0bed9-52c4-4453-ac6d-40d4974e1acf": {
+            "id": "42f0bed9-52c4-4453-ac6d-40d4974e1acf",
+            "fieldPath": "/attributes/@R5_MX",
+            "rank": "zw"
+          },
+          "b33ccd7e-ff97-4cb9-8a96-6a2b046aa74a": {
+            "id": "b33ccd7e-ff97-4cb9-8a96-6a2b046aa74a",
+            "fieldPath": "/attributes/@wY8Wx",
+            "rank": "zy"
+          },
+          "6b306a42-0def-44cd-8c4c-a983bdcfe019": {
+            "id": "6b306a42-0def-44cd-8c4c-a983bdcfe019",
+            "fieldPath": "/attributes/@0dknW",
+            "rank": "zz"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@MEsIT": {
+        "type": "string",
+        "displayName": "Email"
+      },
+      "@K4cVt": {
+        "type": "string",
+        "displayName": "First Name"
+      },
+      "@_1IX4": {
+        "type": "string",
+        "displayName": "Last Name"
+      },
+      "@yann6": {
+        "type": "string",
+        "displayName": "Photo"
+      },
+      "@R5_MX": {
+        "type": "string",
+        "displayName": "Role"
+      },
+      "@wY8Wx": {
+        "type": "string",
+        "displayName": "Phone"
+      },
+      "@0dknW": {
+        "type": "string",
+        "displayName": "Contact Email"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📋"
+    }
+  }
+}

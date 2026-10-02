@@ -1,0 +1,514 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "9ec1c9a3-c083-45c2-ae45-41ab0aea2001",
+        "text": {
+          "ops": [
+            {
+              "insert": "TASKS.md"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "3b7e3eb9-821a-4847-a47a-5b780257f375",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Requirements",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "c543adb3-db72-494c-ada5-2b1aedfa9b63",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "States: OPEN | BUILT(!evidence) DEFAULTED(@the default you chose) DECLARED(@what only the user can supply)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "99368492-d287-465a-989a-0b5f5fb37889",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Done",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "95d54102-1d7c-4caa-bbc9-7b82bd3ea6c3",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2026-09-30 19:07 UTC - Ledger ready - example entry, copy this shape",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": true,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "b1450154-e300-492d-b530-4d1f29d6c540",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ledger ready - example entry, copy this shape",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "55cdd59b-d7f8-4bbc-ad89-1806c351805b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[changed] ",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "TASKS.md seeded",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " with its Done and Knowledge sections, so the next turn reads state instead of re-deriving it.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "eea37e84-387a-47dc-b65a-40374213a383",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[where] ",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "Pinned at the top of this space",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": ", one dated entry per milestone or edit, newest first, so the freshest state is read first.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "30792640-4b4c-4a94-9336-441ad8ff5e2c",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "[next] ",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "File your own entry here",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " when a build phase or an edit lands, because a context reset keeps only what was written down.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "6c11e81f-e23e-47e3-baca-75f7805ac20f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Knowledge",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "e3afc226-ce68-45e4-b118-9809978dc8a9",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "2026-09-30 19:07 UTC - Ledger conventions - example entry",
+                      "attributes": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": true,
+                "completed": false,
+                "children": [
+                  {
+                    "type": "text",
+                    "id": "2bc41b8f-09eb-45ab-b713-c8f04ea4b533",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Ledger conventions - example entry",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "text",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "cc2a38d3-bb23-477a-b166-7a542d11912a",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Durable ids: link each project, agent and flow by name ([Name](https://taskade.com/d/<id>)) so a later turn never re-derives them.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "b5527b17-55af-4656-b15b-e123f1e0cc9d",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Decisions: one line with the reason (\"hero win rate is a number field, not text in the row title, so the chart can read it\").",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "5521a797-8a15-4509-be3b-ca582cb13820",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Learnings: whatever cost you a retry, written so the next turn does not repeat it.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "1e94e9c7-6c78-4891-a1d7-27bc71b3bd1f",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "Requested entries carry a States line and a [n/N] cookie",
+                          "attributes": {
+                            "bold": true
+                          }
+                        },
+                        {
+                          "insert": " - the file teaches its own vocabulary, so a turn with no memory of this prompt still reads it right.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "e96edd71-6556-453d-9ca1-25178b321785",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "One fact per bullet, and update the bullet you already have instead of adding a second one about the same thing.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  },
+                  {
+                    "type": "text",
+                    "id": "39b0cbe4-0c89-48aa-86ff-e43dd280c85b",
+                    "text": {
+                      "ops": [
+                        {
+                          "insert": "When work proves a bullet here wrong, correct or delete that bullet in the same turn - a stale fact costs the next turn more than a missing one.",
+                          "attributes": {}
+                        },
+                        {
+                          "insert": "\n",
+                          "attributes": {
+                            "paragraph": true
+                          }
+                        }
+                      ]
+                    },
+                    "format": {
+                      "node": "bullet",
+                      "children": null
+                    },
+                    "collapsed": false,
+                    "completed": false,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📡"
+    },
+    "coverImageType": "background",
+    "background": {
+      "data": {
+        "value": "bg-random"
+      },
+      "type": "default"
+    }
+  },
+  "pinnedAt": "2026-09-30T19:07:25.185Z"
+}

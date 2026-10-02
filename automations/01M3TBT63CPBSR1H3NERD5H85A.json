@@ -1,0 +1,53 @@
+{
+  "version": "2",
+  "flowTitle": "",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "created": 1790812442436,
+        "properties": {
+          "file": {
+            "type": "string",
+            "title": "file",
+            "format": "file-uri",
+            "created": 1790812450899
+          }
+        }
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "5c694aac-074b-48d1-b84d-d49b22e6bdaf",
+      "valid": true,
+      "displayName": "Get run info",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-utils",
+        "pieceVersion": "BLANK",
+        "actionName": "utils.getRunInfo",
+        "input": {}
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "url": "{{ trigger['body']['file'] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ]
+}

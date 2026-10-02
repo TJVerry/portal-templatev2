@@ -1,0 +1,2667 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a8438ce4-734e-41fd-b57c-649fbaeeddd3",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Tasks"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "53c2efb0-0bd4-4679-ba4e-375c6a8f6f53",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kickoff call"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "none",
+              "@xyytC": "2026-10-02 | John Doe taken off by Template Church\n2026-10-02 | Moved to In Progress by Jake Verry\n2026-10-02 | Jake Verry taken off by Jake Verry\n2026-10-02 | Moved to Waiting on Review by Jake Verry\n2026-10-02 | Moved to To Do by Jake Verry"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ccd84b1e-b8c6-42bf-ae7b-41dad0e5e644",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Connect your domain and current site"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Assigned to Jake Verry by Jake Verry\n2026-10-02 | Moved to Done by Jake Verry\n2026-10-02 | Moved to To Do by Jake Verry"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2d730e35-520a-4d45-93eb-99ae6c210b84",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Upload your logo and best photos"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "c10978f0-4cfc-4856-834c-fb94062c086c"
+              },
+              "@xyytC": "2026-10-02 | Moved to Waiting on Review by Jake Verry\n2026-10-02 | Assigned to Jake Verry by Jake Verry\n2026-10-02 | Jake Verry taken off by Jake Verry\n2026-10-02 | Assigned to Jake Verry by Jake Verry",
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7f3cfb81-1618-455d-a2bd-e9d43655a033",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Site map and page list"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | John Doe taken off by Template Church"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e235afd3-0bba-45ee-80f8-1d0c6df1af0c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Write page copy"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Assigned to John Doe by Template Church"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9a713f75-8edf-4457-80d8-ff346db63376",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Check staff, ministries and service times"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "75d33276-c034-42e2-affe-7c5b3c89e69d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Homepage design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2225ed62-4270-4a27-b83c-3351b95d8fa3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Approve homepage design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Assigned to John Doe by Template Church"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4c98a8fe-5408-4a0d-949b-f6ddac0c189c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Build all pages"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0a49f8ed-1fe6-42af-b6d5-45b4c0669c38",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Plan a Visit and contact forms"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5c421576-f5a4-4efa-9193-284f5bf2e453",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Connect giving and events"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cf60bf50-c2df-4e03-b6cb-3cd16ee6d29c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Phone and speed check"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3fcfefdb-f79b-43a6-aa59-08e2ae7c7dde",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Review the full site"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "8f2b69bf-f93d-44d2-b8f0-9ce0e8d679f1"
+              },
+              "@xyytC": "2026-10-02 | Moved to Done by Jake Verry"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0fba4c0c-1061-44c1-931d-90738ff66153",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Make your changes"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aff38978-8e10-463a-a4e9-f61f0a164abf",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Point your domain to the new site"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1ddd10b0-f39b-4f68-b3d9-663c8423eb2b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Set up Google Analytics and Search Console"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "16efe17c-40aa-4e4b-9721-623221d23590",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Share the new site with your church"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "92e431ad-97ec-4a7e-b899-eb5a22c9f085",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kickoff call"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fd3e6ad0-eddd-4868-b162-0bfe9bcd1b91",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Add us as a manager on your Google Business Profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "21d84fef-aea8-4bca-914d-09846058a914",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Local search audit"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "64839b57-3f85-4a6c-884f-bd3961d9a5e8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Check nearby churches you compete with"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f7e33e3e-7a86-40d7-a73d-c7bdd154e4ff",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Starting rank report"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "68f1355e-47dc-4602-888a-1cdc1ec08129",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Fix name, address, hours and categories"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4489a927-c2f9-4b64-8245-44366ee3ee07",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Add photos, ministries and service times"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "010554b9-1ff1-42e6-bf59-c85a4d1d72ec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Verify your Google profile"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8732daf5-5e4b-4e12-a0ea-acdfb2428fed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Fix Apple Maps, Bing, Facebook and Yelp"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d4beae5b-8b21-4d97-be0e-dfd76f2ba792",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Add you to church directories"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f9607234-1b85-4386-932c-79ae17189304",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Make your review link and QR code"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bdd26822-4996-4545-af38-2ca06ae0370f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Ask 10 members for a Google review"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9bfb6dfe-2524-4e9b-9027-8329e28619fa",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Local page titles and descriptions"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2a391da4-d0e7-44de-ad64-d1f36d7ac9e8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Add church details for Google (schema)"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f5a6ae96-994a-4694-8620-d86f7b8b33aa",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Weekly Google profile posts"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4a940187-2cdd-4f7f-9821-fea71e0247fc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "First monthly rank report"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "c8a28f33-5161-4c20-8880-6511d6f09dda"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "feb4c561-8dba-4593-ad36-7abd6eb25d7b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kickoff call"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cc9a2618-629d-4f3d-8f2e-eedcc6acf260",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Check your EIN and IRS letter"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "12ed8c63-76f1-4992-987b-e21809de28d6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Set up Google for Nonprofits"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "279ce0e1-15cd-4235-a82a-856cf8838c1d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Nonprofit check (Goodstack)"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "63c4d050-e6f4-4906-8fdc-40de43cfa135",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Apply for Google Ad Grants"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a3d093bd-9baa-4ce3-bed8-9a781721e976",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Google approves the grant"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "c10978f0-4cfc-4856-834c-fb94062c086c"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Moved to In Progress by Jake Verry\n2026-10-02 | Jake Verry taken off by Jake Verry\n2026-10-02 | Moved to Waiting on Review by Jake Verry\n2026-10-02 | Assigned to Jake Verry by Jake Verry"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ca6561a6-aed6-49c2-97c2-6ecdd81f29fd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Set up your Ad Grants account"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "017f3274-4ab3-4ba7-b751-1e72b4ad521a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Track visits, calls and form sign-ups"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "50b8c1a5-da72-4dbb-87c1-03576bb5e486",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Keyword research"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "58594e27-09ee-4466-82c3-8644ee2a3379",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Write your ads"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "f82af2c6-a5db-4fae-93e4-5f03b9dcb0ed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Approve ads and keywords"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "79ea2f62-b727-4e12-970c-404f772dacbc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Launch campaigns"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "09604256-882f-40d9-af68-4bef1877f906",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Two-week tune-up"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7efde209-33f7-4705-96d1-9494a0e80e3b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "First monthly ads report"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "48ff40a2-5116-4446-bd16-0c55e9056985"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "189fcebf-013d-4b70-a8bd-689a09b288db",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kickoff call"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Unassigned by Template Church"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "944081c4-06bf-4a4e-af26-1a4898d95452",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Give us access to Facebook and Instagram"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "35e5fc4a-002f-4281-ad10-471edac895d6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Review your current pages"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e0b1d5b8-b718-4f79-b41e-1a2447f9f310",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Content plan and posting schedule"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9cfd6453-b311-4213-8a6b-c2fd1fca1c05",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Clean up bios, links and profile photos"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7d77cd8a-bbb8-4ba3-ad07-e1606e65389c",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Share your sermon videos and photo folder"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d3fe55c9-05d3-422e-b139-8385cf963d73",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Branded post templates"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1fd337bc-bceb-4e0e-88e3-dab7f6c7f17a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Create the first month's posts"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "62462b71-2fab-42e4-be94-d91a5dfe5c54",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Approve the first month's posts"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai",
+              "@xyytC": "2026-10-02 | Assigned to John Doe by Template Church"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "43888fcd-376d-4952-bf6b-72174956dcc6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Schedule posts"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c579b02a-5513-44b4-b554-e887e5b0cd66",
+            "text": {
+              "ops": [
+                {
+                  "insert": "First monthly social report"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "text",
+              "children": "text"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@8OPdx": {
+                "type": "Select",
+                "optionId": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9"
+              },
+              "@b8x_v": {
+                "type": "Select",
+                "optionId": "a6e49be1-de10-41ea-b9ae-7d46957e6689"
+              },
+              "@SIJta": "jverry@faithfunnels.ai"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "970e75e4-0372-49fa-8177-8f88c883d602": {
+            "id": "970e75e4-0372-49fa-8177-8f88c883d602",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "V"
+          },
+          "e135cf13-197a-478e-9145-d3a39b385849": {
+            "id": "e135cf13-197a-478e-9145-d3a39b385849",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "k"
+          },
+          "2cc306a9-d940-4975-b5f8-e1d7fa218901": {
+            "id": "2cc306a9-d940-4975-b5f8-e1d7fa218901",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "s"
+          },
+          "ef70157a-775c-456a-a9e8-981ff2dfe939": {
+            "id": "ef70157a-775c-456a-a9e8-981ff2dfe939",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "w"
+          },
+          "6560d652-6dec-400f-84e1-283a00b537d4": {
+            "id": "6560d652-6dec-400f-84e1-283a00b537d4",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "y"
+          },
+          "f474978a-3d60-4d38-9df7-6b6233c00561": {
+            "id": "f474978a-3d60-4d38-9df7-6b6233c00561",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "z"
+          },
+          "bd8b9ac0-055e-486d-aefe-f35a45715c48": {
+            "id": "bd8b9ac0-055e-486d-aefe-f35a45715c48",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zV"
+          },
+          "5f27e760-1037-4420-b264-f290a171ab9a": {
+            "id": "5f27e760-1037-4420-b264-f290a171ab9a",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zk"
+          },
+          "a2ab9ada-3d9b-4e3c-9c05-93c4c634493d": {
+            "id": "a2ab9ada-3d9b-4e3c-9c05-93c4c634493d",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zs"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "45dd50a4-698a-4d64-b76a-863dccd825a4": {
+            "id": "45dd50a4-698a-4d64-b76a-863dccd825a4",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "V"
+          },
+          "d51ff0d6-418f-4ad8-8a39-b38284043ec2": {
+            "id": "d51ff0d6-418f-4ad8-8a39-b38284043ec2",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "k"
+          },
+          "569adda0-9646-462d-be6f-30ae2ab8aad0": {
+            "id": "569adda0-9646-462d-be6f-30ae2ab8aad0",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "s"
+          },
+          "7ad1e0f8-5e4d-45d9-af92-840a750396be": {
+            "id": "7ad1e0f8-5e4d-45d9-af92-840a750396be",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "w"
+          },
+          "fdb7ef42-020f-4112-9fa3-40a6a9721a5c": {
+            "id": "fdb7ef42-020f-4112-9fa3-40a6a9721a5c",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "y"
+          },
+          "cc71e668-e862-4f33-8f79-027aba83b9e5": {
+            "id": "cc71e668-e862-4f33-8f79-027aba83b9e5",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "z"
+          },
+          "3e9a6ae7-f819-4498-aba3-41da3a0f2d3c": {
+            "id": "3e9a6ae7-f819-4498-aba3-41da3a0f2d3c",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zV"
+          },
+          "ff7cc36d-7d3f-433c-90e4-59e905f3b9cb": {
+            "id": "ff7cc36d-7d3f-433c-90e4-59e905f3b9cb",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zk"
+          },
+          "eb7d0221-1c7e-400e-a261-f0dedcd6a3af": {
+            "id": "eb7d0221-1c7e-400e-a261-f0dedcd6a3af",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zs"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "39c7c53b-998f-4995-a9c2-86598aa15883": {
+            "id": "39c7c53b-998f-4995-a9c2-86598aa15883",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "z"
+          },
+          "294822ad-34b4-4e28-bce0-469fe1b80616": {
+            "id": "294822ad-34b4-4e28-bce0-469fe1b80616",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "zV"
+          },
+          "a3249ef6-9767-4e08-9244-5eecc40e59e1": {
+            "id": "a3249ef6-9767-4e08-9244-5eecc40e59e1",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "zk"
+          },
+          "a3395b39-70a5-437b-b5e0-4ba89da44736": {
+            "id": "a3395b39-70a5-437b-b5e0-4ba89da44736",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "zs"
+          },
+          "0fe1017a-fbd8-4eb8-809a-11b581d53c29": {
+            "id": "0fe1017a-fbd8-4eb8-809a-11b581d53c29",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "zw"
+          },
+          "b1896746-0d66-4706-9e51-38f1f35d79e6": {
+            "id": "b1896746-0d66-4706-9e51-38f1f35d79e6",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "zy"
+          },
+          "082d3854-3c4c-4ec1-899d-ea04a899a55f": {
+            "id": "082d3854-3c4c-4ec1-899d-ea04a899a55f",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zz"
+          },
+          "e90748af-9326-483a-93dc-fa65695cc05e": {
+            "id": "e90748af-9326-483a-93dc-fa65695cc05e",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zzV"
+          },
+          "e4de798d-4965-4506-a828-2e28ec8aacfb": {
+            "id": "e4de798d-4965-4506-a828-2e28ec8aacfb",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "5360716e-1c3e-4cad-9217-f82eb519da41": {
+            "id": "5360716e-1c3e-4cad-9217-f82eb519da41",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "V"
+          },
+          "70486f36-4265-41d1-963e-01761394a1ab": {
+            "id": "70486f36-4265-41d1-963e-01761394a1ab",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "k"
+          },
+          "d1b4950b-1c4c-4ba1-906b-42635b92a80b": {
+            "id": "d1b4950b-1c4c-4ba1-906b-42635b92a80b",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "s"
+          },
+          "dc7ecc59-dcdb-4fc0-abae-016ff7fdc678": {
+            "id": "dc7ecc59-dcdb-4fc0-abae-016ff7fdc678",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "w"
+          },
+          "7bb2c998-e1b5-4ef7-90d6-e3c8b628e026": {
+            "id": "7bb2c998-e1b5-4ef7-90d6-e3c8b628e026",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "y"
+          },
+          "6dda697a-21e8-4573-aa1c-140f675f6ded": {
+            "id": "6dda697a-21e8-4573-aa1c-140f675f6ded",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "z"
+          },
+          "2cea82cf-e6c8-4f30-9a95-4e97dca815c8": {
+            "id": "2cea82cf-e6c8-4f30-9a95-4e97dca815c8",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zV"
+          },
+          "846f5634-15e6-4639-b9f8-65863414cd62": {
+            "id": "846f5634-15e6-4639-b9f8-65863414cd62",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zk"
+          },
+          "1e92c222-614f-447d-8d21-c53e8b9f57b1": {
+            "id": "1e92c222-614f-447d-8d21-c53e8b9f57b1",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zs"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "2a18b51d-55b0-46a5-88cc-bde4654ee198": {
+            "id": "2a18b51d-55b0-46a5-88cc-bde4654ee198",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "V"
+          },
+          "901ef69f-41f4-4d3a-a8f2-ac59b2a939ef": {
+            "id": "901ef69f-41f4-4d3a-a8f2-ac59b2a939ef",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "k"
+          },
+          "e0917592-b034-4237-a9a2-2694fc012cf4": {
+            "id": "e0917592-b034-4237-a9a2-2694fc012cf4",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "s"
+          },
+          "c07ba169-2c7c-459e-bf84-bdf1355b03e1": {
+            "id": "c07ba169-2c7c-459e-bf84-bdf1355b03e1",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "w"
+          },
+          "5a83f7b2-8edf-4232-8f0f-3070dc87c6d7": {
+            "id": "5a83f7b2-8edf-4232-8f0f-3070dc87c6d7",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "y"
+          },
+          "4c9f0fd6-0592-425d-9784-78ac37b8e70e": {
+            "id": "4c9f0fd6-0592-425d-9784-78ac37b8e70e",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "z"
+          },
+          "2d96f1e9-1aa0-487a-a55c-574be0686ad9": {
+            "id": "2d96f1e9-1aa0-487a-a55c-574be0686ad9",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zV"
+          },
+          "9341ed54-a43b-4a73-949a-eec76db2e359": {
+            "id": "9341ed54-a43b-4a73-949a-eec76db2e359",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zk"
+          },
+          "77250763-6374-4a9f-9c38-7ad623821283": {
+            "id": "77250763-6374-4a9f-9c38-7ad623821283",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zs"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "groupBy": {
+          "type": "group_by",
+          "levels": {
+            "519e08d2-86f7-4697-9cb8-7af178d41a2e": {
+              "id": "519e08d2-86f7-4697-9cb8-7af178d41a2e",
+              "type": "field",
+              "fieldPath": "/attributes/@b8x_v",
+              "config": {
+                "type": "natural",
+                "order": "asc"
+              },
+              "rank": "V"
+            }
+          }
+        },
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "56d3de24-e8eb-41b9-a0d2-0faf1beaf8db": {
+            "id": "56d3de24-e8eb-41b9-a0d2-0faf1beaf8db",
+            "fieldPath": "/attributes/@dxK2Z",
+            "rank": "z"
+          },
+          "f1e3df86-5f58-4246-aae0-1e00f481b352": {
+            "id": "f1e3df86-5f58-4246-aae0-1e00f481b352",
+            "fieldPath": "/attributes/@7LS8R",
+            "rank": "zV"
+          },
+          "17b8710f-da56-441e-923f-fed3db394ca8": {
+            "id": "17b8710f-da56-441e-923f-fed3db394ca8",
+            "fieldPath": "/attributes/@8OPdx",
+            "rank": "zk"
+          },
+          "fd3b35c1-b1bf-4095-a78d-da4cd340cee8": {
+            "id": "fd3b35c1-b1bf-4095-a78d-da4cd340cee8",
+            "fieldPath": "/attributes/@b8x_v",
+            "rank": "zs"
+          },
+          "2f8c3be9-502c-4e90-baa4-e3270f07143c": {
+            "id": "2f8c3be9-502c-4e90-baa4-e3270f07143c",
+            "fieldPath": "/attributes/@Z4ywG",
+            "rank": "zw",
+            "hidden": true
+          },
+          "f15bc0b7-b160-479b-b417-e992ad514b09": {
+            "id": "f15bc0b7-b160-479b-b417-e992ad514b09",
+            "fieldPath": "/attributes/@SIJta",
+            "rank": "zy"
+          },
+          "815963a0-df52-4441-9369-4dfe50400015": {
+            "id": "815963a0-df52-4441-9369-4dfe50400015",
+            "fieldPath": "/attributes/@6M-kH",
+            "rank": "zz"
+          },
+          "c2b525e8-4467-4c2b-bf72-27789243ad12": {
+            "id": "c2b525e8-4467-4c2b-bf72-27789243ad12",
+            "fieldPath": "/attributes/@BTrA-",
+            "rank": "zzV"
+          },
+          "cf563e23-9215-48a9-8c9f-6109d4eeb9c9": {
+            "id": "cf563e23-9215-48a9-8c9f-6109d4eeb9c9",
+            "fieldPath": "/attributes/@xyytC",
+            "rank": "zzk"
+          }
+        },
+        "groupConfigs": {
+          "branch:container>>>branch:/attributes/@b8x_v:Ph { rank: \"V\" }": {
+            "collapsed": true,
+            "nodes": {}
+          },
+          "branch:container>>>branch:/attributes/@b8x_v:Ph { rank: \"w\" }": {
+            "collapsed": true,
+            "nodes": {}
+          },
+          "branch:container>>>branch:/attributes/@b8x_v:Ph { rank: \"k\" }": {
+            "collapsed": true,
+            "nodes": {}
+          }
+        }
+      }
+    },
+    "fields": {
+      "@SIJta": {
+        "type": "string",
+        "displayName": "Assigned To"
+      },
+      "@xyytC": {
+        "type": "string",
+        "displayName": "History"
+      },
+      "@BTrA-": {
+        "type": "string",
+        "displayName": "Milestone"
+      },
+      "@8OPdx": {
+        "type": "Select",
+        "displayName": "Service",
+        "options": {
+          "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff": {
+            "id": "6e2a76b3-dd8d-41ef-b8f2-3f5430cf3dff",
+            "name": "Web Design",
+            "rank": "V",
+            "color": "#8B008B"
+          },
+          "c8a28f33-5161-4c20-8880-6511d6f09dda": {
+            "id": "c8a28f33-5161-4c20-8880-6511d6f09dda",
+            "name": "Local SEO",
+            "rank": "k",
+            "color": "#2AA652"
+          },
+          "48ff40a2-5116-4446-bd16-0c55e9056985": {
+            "id": "48ff40a2-5116-4446-bd16-0c55e9056985",
+            "name": "Google Ads / Ad Grants",
+            "rank": "s",
+            "color": "#F4C430"
+          },
+          "a35554be-0bfc-4c33-a8ce-0a404d16b9f9": {
+            "id": "a35554be-0bfc-4c33-a8ce-0a404d16b9f9",
+            "name": "Social Media",
+            "rank": "w",
+            "color": "#007BFF"
+          }
+        }
+      },
+      "@Z4ywG": {
+        "type": "Relationship",
+        "displayName": "Relationship"
+      },
+      "@6M-kH": {
+        "type": "string",
+        "displayName": "Due Date"
+      },
+      "@7LS8R": {
+        "type": "string",
+        "displayName": "Notes"
+      },
+      "@b8x_v": {
+        "type": "Select",
+        "displayName": "Status",
+        "options": {
+          "a6e49be1-de10-41ea-b9ae-7d46957e6689": {
+            "id": "a6e49be1-de10-41ea-b9ae-7d46957e6689",
+            "name": "To Do",
+            "rank": "V",
+            "color": "#FF6A3D"
+          },
+          "bbc25c9e-0f78-4a49-ad40-5df04a18cdd8": {
+            "id": "bbc25c9e-0f78-4a49-ad40-5df04a18cdd8",
+            "name": "In Progress",
+            "rank": "k",
+            "color": "#2AA652"
+          },
+          "c10978f0-4cfc-4856-834c-fb94062c086c": {
+            "id": "c10978f0-4cfc-4856-834c-fb94062c086c",
+            "name": "Waiting on You",
+            "rank": "s",
+            "color": "#F4C430"
+          },
+          "8f2b69bf-f93d-44d2-b8f0-9ce0e8d679f1": {
+            "id": "8f2b69bf-f93d-44d2-b8f0-9ce0e8d679f1",
+            "name": "Done",
+            "rank": "w",
+            "color": "#007BFF"
+          }
+        }
+      },
+      "@dxK2Z": {
+        "type": "string",
+        "displayName": "Client Email"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔧"
+    }
+  }
+}

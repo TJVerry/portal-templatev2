@@ -1,0 +1,697 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "f58f6454-e151-46ec-a93f-a0ef3818329a",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Messages"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b6c362de-a47a-4807-bee6-165d4ae20508",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Message deleted",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "18:30:06",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"deleted\":true,\"files\":[],\"reactions\":{}}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "aadaadb9-98f0-4f8d-894a-6987f20e3a0b",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hey",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "18:49:57",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"reactions\":{\"❤️\":[\"jverry@faithfunnels.ai\"]},\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2c80eee9-f020-4488-9ccd-0a6635a01d9a",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hey",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "19:29:31",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Preview\",\"sentAt\":\"2026-10-01T19:29:31.226Z\",\"source\":\"portal\",\"replyTo\":\"aadaadb9-98f0-4f8d-894a-6987f20e3a0b\",\"reactions\":{\"✅\":[\"jverry@faithfunnels.ai\"]},\"editedAt\":\"2026-10-01T19:38:12.220Z\",\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "efa12e86-051f-4704-85b1-850e2bdec366",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hello",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "20:44:09",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Test Account\",\"sentAt\":\"2026-10-01T20:44:09.829Z\",\"source\":\"portal\",\"taskId\":\"7f3cfb81-1618-455d-a2bd-e9d43655a033\",\"taskTitle\":\"Site map and page list\",\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2e0a3128-c7ee-4195-bb27-b5219cc67952",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "2026-09-27_bulletin.pdf",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "20:45:30",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Test Account\",\"sentAt\":\"2026-10-01T20:45:30.423Z\",\"source\":\"portal\",\"taskId\":\"7f3cfb81-1618-455d-a2bd-e9d43655a033\",\"taskTitle\":\"Site map and page list\",\"files\":[{\"name\":\"2026-09-27_bulletin.pdf\",\"url\":\"https://files.taskade.com/space-files/962972b9-e170-4cee-9d20-ca9795be7b48/original/2026-09-27_bulletin.pdf\",\"size\":1293049,\"type\":\"application/pdf\"}],\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d449e0f6-8471-4a50-8513-6a0a07a588da",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hello, test",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "21:23:41",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Test Account\",\"sentAt\":\"2026-10-01T21:23:41.681Z\",\"source\":\"portal\",\"taskId\":\"7f3cfb81-1618-455d-a2bd-e9d43655a033\",\"taskTitle\":\"Site map and page list\",\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7635f36e-e007-4e84-b4d9-46999e912635",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Test",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "21:46:39",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Test Account\",\"sentAt\":\"2026-10-01T21:46:39.071Z\",\"source\":\"portal\",\"taskId\":\"7f3cfb81-1618-455d-a2bd-e9d43655a033\",\"taskTitle\":\"Site map and page list\",\"files\":[{\"name\":\"2026-09-27_bulletin.pdf\",\"url\":\"https://files.taskade.com/space-files/962972b9-e170-4cee-9d20-ca9795be7b48/original/2026-09-27_bulletin.pdf\"},{\"name\":\"2026-09-27_bulletin.pdf\",\"url\":\"https://files.taskade.com/space-files/841e1deb-4d4d-4fa6-aa1c-392ad31e0109/original/2026-09-27_bulletin.pdf\",\"size\":1293049,\"type\":\"application/pdf\"},{\"name\":\"2026-10-04_bulletin.pdf\",\"url\":\"https://files.taskade.com/space-files/0b40f40d-db96-4a70-9fd3-7b5e44739aed/original/2026-10-04_bulletin.pdf\",\"size\":1192189,\"type\":\"application/pdf\"}],\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "59f5b6e9-e5c1-470d-88c9-b3774b3ca9ef",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "ertertertetertertert",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "22:23:35",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"John Doe\",\"sentAt\":\"2026-10-01T22:23:35.327Z\",\"source\":\"portal\",\"files\":[{\"name\":\"gpt-image-2-edit-1.png\",\"url\":\"https://files.taskade.com/space-files/fa79b699-c470-45c6-8161-c480039a3001/original/gpt-image-2-edit-1.png\",\"size\":1965343,\"type\":\"image/png\"}],\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "69035885-54f8-4ac0-b337-79253fe32039",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "hey",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-02",
+                  "time": "02:25:53",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"John Doe\",\"sentAt\":\"2026-10-02T02:25:53.979Z\",\"source\":\"portal\",\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "37846e30-b822-4f4b-a26a-5a538fab76a2",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hello there",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-02",
+                  "time": "13:50:46",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"John Doe\",\"sentAt\":\"2026-10-02T13:50:46.591Z\",\"source\":\"portal\",\"reactions\":{\"❤️\":[\"jverry@faithfunnels.ai\"]},\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "400960d6-3a3a-46e5-9953-d0e6131bfb4f",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "fgfg",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-02",
+                  "time": "13:58:19",
+                  "timezone": "Etc/UTC"
+                }
+              },
+              "@2Irz4": "{\"name\":\"John Doe\",\"sentAt\":\"2026-10-02T13:58:19.484Z\",\"source\":\"portal\",\"deleted\":true}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "51e84380-950f-4819-a7fa-4b2dc634636b",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "Hey",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-09-03",
+                  "time": "12:23:00",
+                  "timezone": "America/New_York"
+                }
+              },
+              "@2Irz4": "{\"name\":\"John Doe\",\"sentAt\":\"2026-10-02T14:39:10.459Z\",\"source\":\"portal\"}"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "67ce2691-6dc7-47e4-9a8c-15d4c4cf486a",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@nbsSp": "dfgdfgdfg",
+              "@vRv6i": "jverry@faithfunnels.ai",
+              "@2NocW": {
+                "type": "DateTime",
+                "dateTime": {
+                  "date": "2026-10-01",
+                  "time": "14:23:00",
+                  "timezone": "America/New_York"
+                }
+              },
+              "@2Irz4": "{\"name\":\"Jake Verry\",\"sentAt\":\"2026-10-02T15:50:34.180Z\",\"source\":\"portal\",\"deleted\":true}"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "c5c42442-1839-49a3-962e-fddac6ce204a": {
+            "id": "c5c42442-1839-49a3-962e-fddac6ce204a",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "V"
+          },
+          "570cd7e7-a85b-41bb-ab6b-2f15dbd0911d": {
+            "id": "570cd7e7-a85b-41bb-ab6b-2f15dbd0911d",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "k"
+          },
+          "f18807a6-2031-4ae5-b995-c6d1c680ae0e": {
+            "id": "f18807a6-2031-4ae5-b995-c6d1c680ae0e",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "s"
+          },
+          "42297ede-f4f0-4283-b654-3e7a0398fc11": {
+            "id": "42297ede-f4f0-4283-b654-3e7a0398fc11",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "w"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "545d3241-b057-49b1-aed8-e20e08036fab": {
+            "id": "545d3241-b057-49b1-aed8-e20e08036fab",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "V"
+          },
+          "e746576a-bfb3-4b14-b15e-669aad59ab8a": {
+            "id": "e746576a-bfb3-4b14-b15e-669aad59ab8a",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "k"
+          },
+          "32a89a4c-0feb-48dd-8c11-d2da083cc192": {
+            "id": "32a89a4c-0feb-48dd-8c11-d2da083cc192",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "s"
+          },
+          "dbb17c38-2d7f-43a7-a52d-4e0e5fda5397": {
+            "id": "dbb17c38-2d7f-43a7-a52d-4e0e5fda5397",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "w"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "b8fd3b04-f6cb-4459-85f7-bcb3a3a594e7": {
+            "id": "b8fd3b04-f6cb-4459-85f7-bcb3a3a594e7",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "z"
+          },
+          "b45fbaee-47e6-4224-9827-5620f40d7b7f": {
+            "id": "b45fbaee-47e6-4224-9827-5620f40d7b7f",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "zV"
+          },
+          "01abd100-59a2-4b8f-9139-63a7e2d9b100": {
+            "id": "01abd100-59a2-4b8f-9139-63a7e2d9b100",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "zk"
+          },
+          "8d46d882-8143-4518-8857-a9e097760fb4": {
+            "id": "8d46d882-8143-4518-8857-a9e097760fb4",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "zs"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "0f8975fa-8e77-419e-9959-44064d520590": {
+            "id": "0f8975fa-8e77-419e-9959-44064d520590",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "V"
+          },
+          "4ddea9d3-ed75-4b7b-943c-46084ab2117d": {
+            "id": "4ddea9d3-ed75-4b7b-943c-46084ab2117d",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "k"
+          },
+          "780c2add-596d-4747-a3f8-39291c52d351": {
+            "id": "780c2add-596d-4747-a3f8-39291c52d351",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "s"
+          },
+          "5f44ea72-7c5d-4a20-866f-67fb9f467cea": {
+            "id": "5f44ea72-7c5d-4a20-866f-67fb9f467cea",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "w"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "2b3ab70f-8c5c-44b4-9378-15e6d42d33d6": {
+            "id": "2b3ab70f-8c5c-44b4-9378-15e6d42d33d6",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "V"
+          },
+          "6dff78e0-6365-4510-845f-89d559d132fa": {
+            "id": "6dff78e0-6365-4510-845f-89d559d132fa",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "k"
+          },
+          "50349588-1571-4d4a-85c0-ccdc0b9863ef": {
+            "id": "50349588-1571-4d4a-85c0-ccdc0b9863ef",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "s"
+          },
+          "90ebd493-86a2-481e-9fa9-63c20ff132eb": {
+            "id": "90ebd493-86a2-481e-9fa9-63c20ff132eb",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "w"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "83fd458f-2782-463d-91fc-4d2a4a5a5f28": {
+            "id": "83fd458f-2782-463d-91fc-4d2a4a5a5f28",
+            "fieldPath": "/attributes/@nbsSp",
+            "rank": "z"
+          },
+          "e190e1c7-cebe-40fc-aa23-d4eec20e225a": {
+            "id": "e190e1c7-cebe-40fc-aa23-d4eec20e225a",
+            "fieldPath": "/attributes/@vRv6i",
+            "rank": "zV"
+          },
+          "d2f9eca0-b544-40f6-a956-5061d5df6eed": {
+            "id": "d2f9eca0-b544-40f6-a956-5061d5df6eed",
+            "fieldPath": "/attributes/@2NocW",
+            "rank": "zk"
+          },
+          "0e2b62ef-f2ec-4b7a-bfcd-d09a9156aae9": {
+            "id": "0e2b62ef-f2ec-4b7a-bfcd-d09a9156aae9",
+            "fieldPath": "/attributes/@2Irz4",
+            "rank": "zs"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@nbsSp": {
+        "type": "string",
+        "displayName": "Message"
+      },
+      "@vRv6i": {
+        "type": "string",
+        "displayName": "From"
+      },
+      "@2NocW": {
+        "type": "DateTime",
+        "title": "Sent At"
+      },
+      "@2Irz4": {
+        "type": "string",
+        "displayName": "Data"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔋"
+    }
+  }
+}

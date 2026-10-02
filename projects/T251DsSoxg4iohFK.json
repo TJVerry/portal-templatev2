@@ -1,0 +1,544 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "b7951a95-9fda-4a49-b339-2cb04c52c4fb",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Files"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "09bf314f-6bdb-4045-b9eb-d9a2e9aa5407",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@30jbN": "Logos",
+              "@T3gsv": "Logos",
+              "@LtTwt": "jverry@faithfunnels.ai",
+              "@mIQBl": "2026-10-01",
+              "@2hHFv": "Folder"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "46f2e2d2-12ef-4f23-ba99-5984e3d81334",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@30jbN": "2026-09-27_bulletin.pdf",
+              "@XTDFx": "https://files.taskade.com/space-files/962972b9-e170-4cee-9d20-ca9795be7b48/original/2026-09-27_bulletin.pdf",
+              "@T3gsv": "Task files",
+              "@LtTwt": "jverry@faithfunnels.ai",
+              "@mIQBl": "2026-10-01",
+              "@2hHFv": "Task: Site map and page list"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e9153c12-a1a9-429a-a7d9-87311a90a3a2",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@30jbN": "2026-10-04_bulletin.pdf",
+              "@XTDFx": "https://files.taskade.com/space-files/0b40f40d-db96-4a70-9fd3-7b5e44739aed/original/2026-10-04_bulletin.pdf",
+              "@T3gsv": "Task files",
+              "@LtTwt": "jverry@faithfunnels.ai",
+              "@mIQBl": "2026-10-01",
+              "@2hHFv": "Task: Site map and page list"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "60cd5173-122d-41df-b45e-14b42d81abaf": {
+            "id": "60cd5173-122d-41df-b45e-14b42d81abaf",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "V"
+          },
+          "3c97b619-432f-453c-8ada-1f3601e9d45a": {
+            "id": "3c97b619-432f-453c-8ada-1f3601e9d45a",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "k"
+          },
+          "453ec862-29ac-441c-bdae-c2a98a1ca763": {
+            "id": "453ec862-29ac-441c-bdae-c2a98a1ca763",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "s"
+          },
+          "ee21cf5e-bafe-4d4d-b565-0f88ca94d303": {
+            "id": "ee21cf5e-bafe-4d4d-b565-0f88ca94d303",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "w"
+          },
+          "eb82fe48-459c-43dc-a9b4-f40d42915389": {
+            "id": "eb82fe48-459c-43dc-a9b4-f40d42915389",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "y"
+          },
+          "0d62a3fd-3b72-424c-a25a-c16ebe465979": {
+            "id": "0d62a3fd-3b72-424c-a25a-c16ebe465979",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "z"
+          },
+          "23780a78-9893-4df7-aac1-e270ea1b9fbe": {
+            "id": "23780a78-9893-4df7-aac1-e270ea1b9fbe",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "b817c98b-2f60-44fe-995f-aae7b45e3336": {
+            "id": "b817c98b-2f60-44fe-995f-aae7b45e3336",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "V"
+          },
+          "3a6bc5d7-eb69-4efa-a52b-0b773a812ae1": {
+            "id": "3a6bc5d7-eb69-4efa-a52b-0b773a812ae1",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "k"
+          },
+          "c85b7c17-94a7-4d46-9065-be9e121f888c": {
+            "id": "c85b7c17-94a7-4d46-9065-be9e121f888c",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "s"
+          },
+          "92482000-8cd9-4bd2-8001-1f5bb535608d": {
+            "id": "92482000-8cd9-4bd2-8001-1f5bb535608d",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "w"
+          },
+          "15a644bb-fc9e-4be6-b8e6-508e84714a06": {
+            "id": "15a644bb-fc9e-4be6-b8e6-508e84714a06",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "y"
+          },
+          "9d1131be-a49d-4eb9-9c2a-546a7a03a714": {
+            "id": "9d1131be-a49d-4eb9-9c2a-546a7a03a714",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "z"
+          },
+          "35cdc852-cd77-48d5-95f3-56d1f4b77ed5": {
+            "id": "35cdc852-cd77-48d5-95f3-56d1f4b77ed5",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zV"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "ab4634af-1458-4f8a-95ae-c94b94551363": {
+            "id": "ab4634af-1458-4f8a-95ae-c94b94551363",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "z"
+          },
+          "470a0fe4-46e1-4792-953f-981b1b5442f1": {
+            "id": "470a0fe4-46e1-4792-953f-981b1b5442f1",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "zV"
+          },
+          "59cff6e7-1a49-4365-8d73-5c5a5e23ba02": {
+            "id": "59cff6e7-1a49-4365-8d73-5c5a5e23ba02",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "zk"
+          },
+          "5b13f4a9-6537-46be-af86-28ddd7629787": {
+            "id": "5b13f4a9-6537-46be-af86-28ddd7629787",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "zs"
+          },
+          "8c2d3e68-db97-451f-8ebf-ea08618f78f9": {
+            "id": "8c2d3e68-db97-451f-8ebf-ea08618f78f9",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "zw"
+          },
+          "74526b52-d6eb-4943-a4aa-de4360316188": {
+            "id": "74526b52-d6eb-4943-a4aa-de4360316188",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "zy"
+          },
+          "2308e4d6-cb31-4572-ac84-c16f1a9601de": {
+            "id": "2308e4d6-cb31-4572-ac84-c16f1a9601de",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zz"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "0dd220c8-dbed-4ee8-937e-97bb00a8a596": {
+            "id": "0dd220c8-dbed-4ee8-937e-97bb00a8a596",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "V"
+          },
+          "659052bc-8fcb-4b5a-b3f0-32a422a37732": {
+            "id": "659052bc-8fcb-4b5a-b3f0-32a422a37732",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "k"
+          },
+          "05f2399d-b96a-491a-8efc-fff6938f2808": {
+            "id": "05f2399d-b96a-491a-8efc-fff6938f2808",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "s"
+          },
+          "43da2c56-4ec3-4ac7-a55f-ef1a7166d08b": {
+            "id": "43da2c56-4ec3-4ac7-a55f-ef1a7166d08b",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "w"
+          },
+          "faee9f8c-3365-4440-b525-e88992b7e909": {
+            "id": "faee9f8c-3365-4440-b525-e88992b7e909",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "y"
+          },
+          "b6af4b71-7226-4e39-82cc-54636f9f63e2": {
+            "id": "b6af4b71-7226-4e39-82cc-54636f9f63e2",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "z"
+          },
+          "bd3fa6d1-bbb5-4097-8350-6ca25cb81d81": {
+            "id": "bd3fa6d1-bbb5-4097-8350-6ca25cb81d81",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "561ad785-da58-442f-86e7-128e3d0afb3c": {
+            "id": "561ad785-da58-442f-86e7-128e3d0afb3c",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "V"
+          },
+          "397c77e4-f685-4c08-a478-0d39b0ba9b10": {
+            "id": "397c77e4-f685-4c08-a478-0d39b0ba9b10",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "k"
+          },
+          "fc662f78-4065-4d3e-b4ff-01044fb9a9d1": {
+            "id": "fc662f78-4065-4d3e-b4ff-01044fb9a9d1",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "s"
+          },
+          "a9e3dc95-0a34-46bc-bc4d-f11ca5aa1117": {
+            "id": "a9e3dc95-0a34-46bc-bc4d-f11ca5aa1117",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "w"
+          },
+          "3c78cfb3-4984-46f7-a05b-ac631d579a26": {
+            "id": "3c78cfb3-4984-46f7-a05b-ac631d579a26",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "y"
+          },
+          "6daa47e1-8c28-4393-a1d0-e6d7959f5a53": {
+            "id": "6daa47e1-8c28-4393-a1d0-e6d7959f5a53",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "z"
+          },
+          "31a2b7c1-1f7a-446f-b113-2138f1bb9985": {
+            "id": "31a2b7c1-1f7a-446f-b113-2138f1bb9985",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zV"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "c4391118-c656-4411-89df-c480f1304da6": {
+            "id": "c4391118-c656-4411-89df-c480f1304da6",
+            "fieldPath": "/attributes/@ogvvt",
+            "rank": "z"
+          },
+          "a91323b4-92ab-4793-b224-71d2c3fc9e00": {
+            "id": "a91323b4-92ab-4793-b224-71d2c3fc9e00",
+            "fieldPath": "/attributes/@30jbN",
+            "rank": "zV"
+          },
+          "8f68554a-3219-4dac-97d2-81d46b5f9c3c": {
+            "id": "8f68554a-3219-4dac-97d2-81d46b5f9c3c",
+            "fieldPath": "/attributes/@XTDFx",
+            "rank": "zk"
+          },
+          "79147ac3-91ad-4b45-aeda-8ab31940f458": {
+            "id": "79147ac3-91ad-4b45-aeda-8ab31940f458",
+            "fieldPath": "/attributes/@LtTwt",
+            "rank": "zs"
+          },
+          "a9585b5e-2db4-45b8-8ae7-2cbacf1aaba4": {
+            "id": "a9585b5e-2db4-45b8-8ae7-2cbacf1aaba4",
+            "fieldPath": "/attributes/@mIQBl",
+            "rank": "zw"
+          },
+          "84a0a92f-b195-415e-b36b-5427f74b8b8e": {
+            "id": "84a0a92f-b195-415e-b36b-5427f74b8b8e",
+            "fieldPath": "/attributes/@2hHFv",
+            "rank": "zy"
+          },
+          "4ee54fa2-cdf7-49e1-8441-527f0edad311": {
+            "id": "4ee54fa2-cdf7-49e1-8441-527f0edad311",
+            "fieldPath": "/attributes/@T3gsv",
+            "rank": "zz"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@ogvvt": {
+        "type": "string",
+        "displayName": "Client Email"
+      },
+      "@30jbN": {
+        "type": "string",
+        "displayName": "File Name"
+      },
+      "@XTDFx": {
+        "type": "string",
+        "displayName": "File URL"
+      },
+      "@LtTwt": {
+        "type": "string",
+        "displayName": "Uploaded By"
+      },
+      "@mIQBl": {
+        "type": "string",
+        "displayName": "Uploaded At"
+      },
+      "@2hHFv": {
+        "type": "string",
+        "displayName": "Note"
+      },
+      "@T3gsv": {
+        "type": "string",
+        "displayName": "Folder",
+        "description": "Media library folder path, e.g. Logos/Old. Empty = top level."
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "💌"
+    }
+  }
+}

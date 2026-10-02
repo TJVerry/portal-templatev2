@@ -1,0 +1,475 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "d68e6c4b-2864-4525-b704-4629fd31041f",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Services"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "2bd8f6f7-5825-4ff9-bcec-e8ac2839d396",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Web Design"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1d46655e-59ea-42cd-af6c-b793830ca894",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Local SEO"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3df57cc0-def1-434d-ae80-e0bdb6c64deb",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Google Ads / Ad Grants"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "28f7433c-21b6-4893-9b29-12822b89618d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Social Media"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@SPpeZ": {
+                "type": "Select",
+                "optionId": "0f556cee-6690-42b5-ad96-16c72076ca15"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "488a731d-4b84-47bf-9e6d-36fb12b217cd",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Social Media"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "366e6955-b5e4-4334-a97a-d9d224c40b93": {
+            "id": "366e6955-b5e4-4334-a97a-d9d224c40b93",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "V"
+          },
+          "b4dff2ad-d162-4fa4-9589-d959e56d13aa": {
+            "id": "b4dff2ad-d162-4fa4-9589-d959e56d13aa",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "k"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "5f596297-cd04-4a27-83a4-e37e96e5a988": {
+            "id": "5f596297-cd04-4a27-83a4-e37e96e5a988",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "V"
+          },
+          "49cb4375-0004-4bbe-824f-8fd8bf8fee5c": {
+            "id": "49cb4375-0004-4bbe-824f-8fd8bf8fee5c",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "k"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "fd8c1697-6b0c-473d-8ee5-da702d091104": {
+            "id": "fd8c1697-6b0c-473d-8ee5-da702d091104",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "z"
+          },
+          "b6c18591-8360-4c83-a848-f19b2741910b": {
+            "id": "b6c18591-8360-4c83-a848-f19b2741910b",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "zV"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "4342c3f5-db02-4531-8e03-87fd1a4c6cb1": {
+            "id": "4342c3f5-db02-4531-8e03-87fd1a4c6cb1",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "V"
+          },
+          "982dd1fa-c421-4bc3-ac6f-9866cdd28498": {
+            "id": "982dd1fa-c421-4bc3-ac6f-9866cdd28498",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "k"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "306de13f-74fd-4f55-bbc9-0bc572fd8bc4": {
+            "id": "306de13f-74fd-4f55-bbc9-0bc572fd8bc4",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "V"
+          },
+          "db36b730-90b7-471f-87f9-3005ffa6d8e0": {
+            "id": "db36b730-90b7-471f-87f9-3005ffa6d8e0",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "k"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "54926e22-1540-4abd-a52c-cd9e5a04fe88": {
+            "id": "54926e22-1540-4abd-a52c-cd9e5a04fe88",
+            "fieldPath": "/attributes/@SPpeZ",
+            "rank": "z"
+          },
+          "0f9dcdad-e824-452e-901e-fa41ae0d8a7c": {
+            "id": "0f9dcdad-e824-452e-901e-fa41ae0d8a7c",
+            "fieldPath": "/attributes/@crr-u",
+            "rank": "zV"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@SPpeZ": {
+        "type": "Select",
+        "displayName": "Stage",
+        "options": {
+          "02dbcf9f-6203-4862-a2ae-96a3f1ca1a6a": {
+            "id": "02dbcf9f-6203-4862-a2ae-96a3f1ca1a6a",
+            "name": "Info received",
+            "rank": "V",
+            "color": "#F4C430"
+          },
+          "a7abb6da-a2af-44a7-b742-3bf4ecf93b45": {
+            "id": "a7abb6da-a2af-44a7-b742-3bf4ecf93b45",
+            "name": "Kickoff",
+            "rank": "k",
+            "color": "#2AA652"
+          },
+          "0f556cee-6690-42b5-ad96-16c72076ca15": {
+            "id": "0f556cee-6690-42b5-ad96-16c72076ca15",
+            "name": "Building",
+            "rank": "s",
+            "color": "#007BFF"
+          },
+          "2b435055-7698-4676-b5af-f790f7d37af0": {
+            "id": "2b435055-7698-4676-b5af-f790f7d37af0",
+            "name": "Review",
+            "rank": "w",
+            "color": "#BD1E51"
+          },
+          "cdfc38e6-3dd7-408d-b5f2-71469dacd235": {
+            "id": "cdfc38e6-3dd7-408d-b5f2-71469dacd235",
+            "name": "Live",
+            "rank": "y",
+            "color": "#008080"
+          }
+        }
+      },
+      "@crr-u": {
+        "type": "string",
+        "displayName": "Next Step"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📧"
+    }
+  }
+}

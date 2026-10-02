@@ -1,0 +1,501 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "0bf2a604-bb12-4dc6-8fc6-d8c67d81ffdb",
+        "text": {
+          "ops": [
+            {
+              "insert": "Portal — Onboarding"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": {
+          "node": "h1",
+          "children": "text"
+        },
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "db17591c-02c2-44c0-9355-3261bc94d2ec",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Onboarding"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "bullet",
+              "children": "bullet"
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@mL35O": "review",
+              "@Q5ms0": "jverry@faithfunnels.ai",
+              "@-DKE2": "2026-09-30",
+              "@nDU7U": "{\"knownAs\":\"St Luke's United Methodist\",\"legalName\":\"sdfsdfsdf\",\"address\":\"126 Byers Avenue\",\"phone\":\"17576529666\",\"publicEmail\":\"jverry@faithfunnels.ai\",\"website\":\"\",\"serviceTimes\":[\"{\\\"day\\\":\\\"Sunday\\\",\\\"start\\\":\\\"12:00\\\",\\\"end\\\":\\\"13:00\\\",\\\"label\\\":\\\"\\\"}\"],\"contactName\":\"Jake Verry\",\"contactRole\":\"Lead Pastor\",\"contactEmail\":\"jverry@faithfunnels.ai\",\"contactPhone\":\"7576529666\",\"contactPrefers\":[\"Text\"],\"whoReach\":\"sdfsdf\",\"areas\":\"sdfsdfsdfs\",\"ministries\":\"fdsdfsdf\",\"events\":\"sdfsdfsdf\",\"features\":[\"Volunteer sign-ups\",\"Event registrations\",\"Livestream and sermon library\"],\"hasBrand\":\"Yes\",\"siteGoal\":\"Plan a visit\",\"likedSites\":\"sdfsdf\",\"tools\":[\"Breeze\",\"Planning Center\",\"Tithe.ly\"],\"domainOwner\":\"sdfsdf\",\"writer\":\"We will\",\"webApprover\":\"sdfsdf\",\"hasGbp\":\"Yes\",\"gbpOwner\":\"adasfsdf\",\"searches\":\"sdfsdf\",\"oldInfo\":\"sdfsdf\",\"reviews\":\"sdfsdf\",\"exempt\":\"Yes, we have our own IRS letter\",\"ein\":\"sdfs\",\"g4np\":\"Yes\",\"program\":\"The free Ad Grant\",\"adsAccount\":\"Yes\",\"adsGoal\":\"sdfsdf\",\"win\":\"A \\\"Plan a visit\\\" form\",\"platforms\":\"sdfsdf\",\"managed\":[\"Facebook\",\"X (Twitter)\"],\"voice\":\"sdf\",\"avoid\":\"sdf\",\"photoPolicy\":\"sdf\",\"socialApprover\":\"sdfsd\"}",
+              "@jmmXV": "Submitted",
+              "@L6k36": "2026-10-01"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "6ebb34ae-13a1-452e-94ec-b37c708709f2",
+            "text": {
+              "ops": []
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@jmmXV": "Profile",
+              "@Q5ms0": "jverry@faithfunnels.ai",
+              "@nDU7U": "{\"firstName\":\"John\",\"lastName\":\"Doe\",\"contactEmail\":\"jverry@faithfunnels.ai\",\"phone\":\"(757) 797-9437\",\"role\":\"Lead Pastor\",\"photoUrl\":\"https://files.taskade.com/space-files/368822ac-ad5b-40f1-b9f9-af58db7db41e/original/FNNFD%20Emblem.png\"}"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "43325882-d3c3-4d04-a568-5f6a5ddf3ee3": {
+            "id": "43325882-d3c3-4d04-a568-5f6a5ddf3ee3",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "V"
+          },
+          "397ee054-4f5b-4d24-9832-c501c0634d4d": {
+            "id": "397ee054-4f5b-4d24-9832-c501c0634d4d",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "k"
+          },
+          "057a059c-28ad-4fb5-83f2-7b88d7ae77e7": {
+            "id": "057a059c-28ad-4fb5-83f2-7b88d7ae77e7",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "s"
+          },
+          "909ea51b-c07b-4455-bb37-dab5e8940ae8": {
+            "id": "909ea51b-c07b-4455-bb37-dab5e8940ae8",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "w"
+          },
+          "432e4df9-6c86-45e9-a535-6802ca9a191e": {
+            "id": "432e4df9-6c86-45e9-a535-6802ca9a191e",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "y"
+          },
+          "62bc0f90-105a-487c-bc1a-c217b9251aa2": {
+            "id": "62bc0f90-105a-487c-bc1a-c217b9251aa2",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "z"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "2d230b94-6340-465f-af60-28ce3ce677c3": {
+            "id": "2d230b94-6340-465f-af60-28ce3ce677c3",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "V"
+          },
+          "88113824-6657-4137-8769-b46bae2a744a": {
+            "id": "88113824-6657-4137-8769-b46bae2a744a",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "k"
+          },
+          "1f603344-142b-49a3-b455-3f998ce7df74": {
+            "id": "1f603344-142b-49a3-b455-3f998ce7df74",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "s"
+          },
+          "d7f6196c-3dd1-4ca8-bd2a-c4ea9bf29169": {
+            "id": "d7f6196c-3dd1-4ca8-bd2a-c4ea9bf29169",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "w"
+          },
+          "94fa928d-d97c-416e-bcf9-5e69653677ff": {
+            "id": "94fa928d-d97c-416e-bcf9-5e69653677ff",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "y"
+          },
+          "b059f095-e246-4382-9881-70c725e49c30": {
+            "id": "b059f095-e246-4382-9881-70c725e49c30",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "z"
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "5dd87528-adeb-4e67-81ae-65e8c0f1e691": {
+            "id": "5dd87528-adeb-4e67-81ae-65e8c0f1e691",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "z"
+          },
+          "80853957-4fbd-4da6-ad85-ce7c647b64fe": {
+            "id": "80853957-4fbd-4da6-ad85-ce7c647b64fe",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "zV"
+          },
+          "1b55a491-ef95-4d82-ba9d-2f72af626c6a": {
+            "id": "1b55a491-ef95-4d82-ba9d-2f72af626c6a",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "zk"
+          },
+          "57fae89c-799c-47bd-900b-c11a3fe2f8fa": {
+            "id": "57fae89c-799c-47bd-900b-c11a3fe2f8fa",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "zs"
+          },
+          "f9062749-38fc-4652-ad06-b107b8f94a68": {
+            "id": "f9062749-38fc-4652-ad06-b107b8f94a68",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "zw"
+          },
+          "73e7e36b-be37-4206-a012-172aea40ab91": {
+            "id": "73e7e36b-be37-4206-a012-172aea40ab91",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "zy"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "C",
+        "displayedFields": {
+          "e55fb429-bf4c-48b8-94c1-f9b4a9f6bc50": {
+            "id": "e55fb429-bf4c-48b8-94c1-f9b4a9f6bc50",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "V"
+          },
+          "50d443f0-e348-4c8b-8625-0f2fc71d6df4": {
+            "id": "50d443f0-e348-4c8b-8625-0f2fc71d6df4",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "k"
+          },
+          "5002f1d7-2b30-41ad-94ef-080f3d900e5e": {
+            "id": "5002f1d7-2b30-41ad-94ef-080f3d900e5e",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "s"
+          },
+          "4039286b-e8b2-4e53-baa1-f8f5113daa73": {
+            "id": "4039286b-e8b2-4e53-baa1-f8f5113daa73",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "w"
+          },
+          "03d2fa4b-33bc-432a-881f-27ea50a45ddd": {
+            "id": "03d2fa4b-33bc-432a-881f-27ea50a45ddd",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "y"
+          },
+          "a0c06aa0-e2c2-448b-8f01-868d2a231fdb": {
+            "id": "a0c06aa0-e2c2-448b-8f01-868d2a231fdb",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "z"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "D",
+        "displayedFields": {
+          "560e94ef-52f4-4e93-b79b-67c10d158e0c": {
+            "id": "560e94ef-52f4-4e93-b79b-67c10d158e0c",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "V"
+          },
+          "0bec660d-26a0-44c9-b4ef-9f4a9c97a9f7": {
+            "id": "0bec660d-26a0-44c9-b4ef-9f4a9c97a9f7",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "k"
+          },
+          "0e45791b-1083-4c7e-b50c-1d4a5137a0af": {
+            "id": "0e45791b-1083-4c7e-b50c-1d4a5137a0af",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "s"
+          },
+          "c300875e-2f0d-4e6f-b8dc-a843d22ea692": {
+            "id": "c300875e-2f0d-4e6f-b8dc-a843d22ea692",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "w"
+          },
+          "416e8e61-15c0-49be-8601-9039705bba9b": {
+            "id": "416e8e61-15c0-49be-8601-9039705bba9b",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "y"
+          },
+          "c51ab48c-a2be-4867-a837-b2ce8fe94a27": {
+            "id": "c51ab48c-a2be-4867-a837-b2ce8fe94a27",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "z"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "7d9480ac-690d-4d64-8e44-70e4c84be2db": {
+            "id": "7d9480ac-690d-4d64-8e44-70e4c84be2db",
+            "fieldPath": "/attributes/@nDU7U",
+            "rank": "z"
+          },
+          "e4e173cb-0d71-4038-803f-b44bf605fb70": {
+            "id": "e4e173cb-0d71-4038-803f-b44bf605fb70",
+            "fieldPath": "/attributes/@jmmXV",
+            "rank": "zV"
+          },
+          "2fb8c7e6-27b0-42d3-b76f-303002996da2": {
+            "id": "2fb8c7e6-27b0-42d3-b76f-303002996da2",
+            "fieldPath": "/attributes/@mL35O",
+            "rank": "zk"
+          },
+          "0d62427a-e75a-4505-b108-e59cb483bded": {
+            "id": "0d62427a-e75a-4505-b108-e59cb483bded",
+            "fieldPath": "/attributes/@Q5ms0",
+            "rank": "zs"
+          },
+          "6c269831-b47f-493d-9351-f48ad2647269": {
+            "id": "6c269831-b47f-493d-9351-f48ad2647269",
+            "fieldPath": "/attributes/@-DKE2",
+            "rank": "zw"
+          },
+          "c007d73a-7694-4400-b0a4-81686e11fb58": {
+            "id": "c007d73a-7694-4400-b0a4-81686e11fb58",
+            "fieldPath": "/attributes/@L6k36",
+            "rank": "zy"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@nDU7U": {
+        "type": "string",
+        "displayName": "Answers"
+      },
+      "@jmmXV": {
+        "type": "string",
+        "displayName": "Status"
+      },
+      "@mL35O": {
+        "type": "string",
+        "displayName": "Current Step"
+      },
+      "@Q5ms0": {
+        "type": "string",
+        "displayName": "Updated By"
+      },
+      "@-DKE2": {
+        "type": "string",
+        "displayName": "Submitted At"
+      },
+      "@L6k36": {
+        "type": "string",
+        "displayName": "Kickoff Booked At"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "🌐"
+    }
+  }
+}
